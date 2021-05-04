@@ -11,6 +11,8 @@ class ViewController: UIViewController {
     
     var number: Int = 0
     var happy: String!
+    
+    var yahho: String!
 
     override func viewDidLoad() {
         super.viewDidLoad()
